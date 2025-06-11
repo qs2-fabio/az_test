@@ -1,0 +1,7 @@
+<templates id="template" xml:space="preserve">
+	<t t-name="survey_upload_file_and_signature.SurveySignatureComponent">
+		<div class="survey_signature_part">
+			<NameAndSignatureCustom t-props="nameAndSignatureProps"/>
+		</div>
+	</t>
+</templates>
